@@ -1,2 +1,3 @@
 # Hello-World
-This is my beginning in developing. 
+Here starts my first steps in software engineering.
+I'm going to use Python as first language.
